@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on becoming Data/Finance Analyst
+- 🌱 I’m currently learning SQL, Tableau and Python at Turing College
+
+- - 📫 How to reach me: [LinkedIN](https://www.linkedin.com/in/indr%C4%97-sta%C5%A1yt%C4%97-05886ba8/)
+- ⚡ Fun fact:  I have a degree in Architectural Engineering
+  
 <!--
 **indre-sta/indre-sta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
